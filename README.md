@@ -1,6 +1,12 @@
-- 👋 Hi, I’m @Jimmymonster
-- 👀 I’m new to coding.
-- 🌱 I’m currently learning c,c++
+# :star: Hi, I’m @Jimmymonster :star:
+## My name is Thanapob Parinyarat, you can call me Jim.
+🌱 I’m currently learning...
+> C
+> C++
+> Java
+> Javascript
+> python
+
 
 <!---
 Jimmymonster/Jimmymonster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
