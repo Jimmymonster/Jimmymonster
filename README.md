@@ -22,7 +22,20 @@ An ***INTROVERT*** lazy man who want to be software developper. Love problem sol
    <img src="misc/ai.svg" alt="ai" style="vertical-align:top; margin:6px 4px">
 </a>
 </br>
+
 ## Learning
+<a href="#">
+   <img src="languages/python.svg" alt="gamedev" style="vertical-align:top; margin:6px 4px">
+</a>
+<a href="#">
+   <img src="languages/csharp.svg" alt="gamedev" style="vertical-align:top; margin:6px 4px">
+</a>
+<a href="#">
+   <img src="languages/js.svg" alt="gamedev" style="vertical-align:top; margin:6px 4px">
+</a>
+<a href="#">
+   <img src="languages/java.svg" alt="gamedev" style="vertical-align:top; margin:6px 4px">
+</a>
 
 ## Works
 Don't have any jobs right now.
