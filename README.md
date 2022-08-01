@@ -15,7 +15,13 @@ An ***INTROVERT*** lazy man who want to be software developper. Love problem sol
 <br/>
 
 ## Interested in
-
+<a href="#">
+   <img src="misc/gamedev.svg" alt="gamedev" style="vertical-align:top; margin:6px 4px">
+</a>
+<a href="#">
+   <img src="misc/ai.svg" alt="ai" style="vertical-align:top; margin:6px 4px">
+</a>  
+  
 ## Stats
 <p><img src="https://github-readme-stats.vercel.app/api?username=Jimmymonster&amp;show_icons=true" alt="GitHub Stats"></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jimmymonster&layout=compact&theme=buefy&hide_border=true" /></p>
