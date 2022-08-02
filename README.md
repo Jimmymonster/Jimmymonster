@@ -10,7 +10,7 @@
 
 <br/>
 
-## Personality and Bios
+## Personality
 An ***INTROVERT*** lazy man who wants to be a software developer. Love problem solving and self-learning. Don't like talking with people if not necessary. Prefer a quiet place and instrumental music with coffee. Currently, I'm studying computer engineering at Ladkrabang University, Thailand.
 <br/>
 
@@ -36,9 +36,6 @@ An ***INTROVERT*** lazy man who wants to be a software developer. Love problem s
 <a href="#">
    <img src="languages/java.svg" alt="gamedev" style="vertical-align:top; margin:6px 4px">
 </a>
-
-## Works
-Don't have any jobs right now.
 
 ## Stats
 <p><img src="https://github-readme-stats.vercel.app/api?username=Jimmymonster&amp;show_icons=true" alt="GitHub Stats"></p>
