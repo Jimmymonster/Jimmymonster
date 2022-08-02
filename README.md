@@ -11,7 +11,7 @@
 <br/>
 
 ## Personality and Bios
-An ***INTROVERT*** lazy man who want to be software developper. Love problem solving and self-learning. Don't like talking with people if not necessary. Prefer quiet place and instrumental music with coffee. Currently I'm studying computer engineering at Ladkrabang University, Thailand.
+An ***INTROVERT*** lazy man who wants to be a software developer. Love problem solving and self-learning. Don't like talking with people if not necessary. Prefer a quiet place and instrumental music with coffee. Currently, I'm studying computer engineering at Ladkrabang University, Thailand.
 <br/>
 
 ## Interested in
