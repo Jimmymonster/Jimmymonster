@@ -11,11 +11,11 @@
 <br/>
 
 ## Personality
------
+...
 <br/>
 
 ## Interested in
------
+Nothing
 </br>
 
 ## Learning
