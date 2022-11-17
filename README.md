@@ -11,16 +11,11 @@
 <br/>
 
 ## Personality
-An ***INTROVERT*** lazy man who wants to be a software developer. Love problem solving and self-learning. Don't like talking with people if not necessary. Prefer a quiet place and instrumental music with coffee. Currently, I'm studying computer engineering at Ladkrabang University, Thailand.
+-----
 <br/>
 
 ## Interested in
-<a href="#">
-   <img src="misc/gamedev.svg" alt="gamedev" style="vertical-align:top; margin:6px 4px">
-</a>
-<a href="#">
-   <img src="misc/ai.svg" alt="ai" style="vertical-align:top; margin:6px 4px">
-</a>
+-----
 </br>
 
 ## Learning
