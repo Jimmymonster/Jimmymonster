@@ -31,11 +31,11 @@ Nothing
 <a href="#">
    <img src="languages/java.svg" alt="gamedev" style="vertical-align:top; margin:6px 4px">
 </a>
-
+<!---
 ## Stats
 <p><img src="https://github-readme-stats.vercel.app/api?username=Jimmymonster&amp;show_icons=true" alt="GitHub Stats"></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jimmymonster&layout=compact&theme=buefy&hide_border=true" /></p>
-
+--->
 <!---
 Jimmymonster/Jimmymonster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
