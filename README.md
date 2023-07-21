@@ -1,5 +1,5 @@
 # :triangular_flag_on_post: Hi, I’m [Jimmymonster](https://github.com/Jimmymonster). Just call me Jim.
-### My real name is Thanapob Parinyarat.
+### My full name is Thanapob Parinyarat.
 <!---
 ## :email: Contract
 <a href="https://www.instagram.com/jimmymonster_/">
