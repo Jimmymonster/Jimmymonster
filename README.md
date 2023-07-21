@@ -1,5 +1,6 @@
 # :triangular_flag_on_post: Hi, I’m [Jimmymonster](https://github.com/Jimmymonster). Just call me Jim.
 ### My real name is Thanapob Parinyarat.
+<!---
 ## :email: Contract
 <a href="https://www.instagram.com/jimmymonster_/">
   <img align="left" alt="Jimmymonster's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -9,6 +10,7 @@
 </a>
 
 <br/>
+--->
 
 ## Personality
 ...
@@ -17,7 +19,7 @@
 ## Interested in
 Nothing
 </br>
-
+<!---
 ## Learning
 <a href="#">
    <img src="languages/python.svg" alt="gamedev" style="vertical-align:top; margin:6px 4px">
@@ -31,7 +33,7 @@ Nothing
 <a href="#">
    <img src="languages/java.svg" alt="gamedev" style="vertical-align:top; margin:6px 4px">
 </a>
-<!---
+
 ## Stats
 <p><img src="https://github-readme-stats.vercel.app/api?username=Jimmymonster&amp;show_icons=true" alt="GitHub Stats"></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jimmymonster&layout=compact&theme=buefy&hide_border=true" /></p>
