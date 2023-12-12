@@ -23,10 +23,7 @@ My full name is Thanapob Parinyarat.
 <li> <b>Languages:</b> Thai English Japanese </li>
 <li> <b>Likes:</b> Rhythm Games, JRPG Horror Games, Anime </li>
 <li> <b>Hobbies:</b> Learning Japansese, Reading, Gaming </li>
-<li> <b>Learning:</b> Design UX/UI with figma, Learning Devops</li>
 <li> <b>Coding Language that I ever used:</b>  C, C++, C#, python, java, javascript, typescript, html, css</li>
-<li> <b>Things I'm good at:</b> A job that requires lots of logic and math.</li>
-<li> <b>Things I'm not good at:</b> A job that requires imagination and creativity.</li>
 <br/>
 
 
