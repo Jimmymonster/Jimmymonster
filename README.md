@@ -4,6 +4,7 @@ My full name is Thanapob Parinyarat.
 <h1 align="center">:email: Contract</h1> 
 <li>  <a href="https://www.instagram.com/jimmymonster_/"><b>Instagram</b> </a> </li>
 <li>  <a href="https://www.discordapp.com/users/256747450868432896/"><b>Discord</b> </a> </li>
+<li>  <a href="https://www.linkedin.com/in/thanapob-parinyarat-730281249/"><b>LinkedIn</b> </a> </li>
 
 <!---
 <a href="https://www.instagram.com/jimmymonster_/">
