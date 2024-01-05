@@ -22,8 +22,8 @@ My full name is Thanapob Parinyarat.
 <li> <b>Name:</b> Jim </li>
 <li> <b>Gender:</b> He/Male </li>
 <li> <b>Languages:</b> Thai English Japanese </li>
-<li> <b>Likes:</b> Rhythm Games, JRPG Horror Games, Anime </li>
-<li> <b>Hobbies:</b> Learning Japansese, Reading, Gaming </li>
+<!-- <li> <b>Likes:</b> Rhythm Games, JRPG Horror Games, Anime </li> -->
+<li> <b>Hobbies:</b> Reading, Gaming, Coding </li>
 <li> <b>Coding Language that I ever used:</b>  C, C++, C#, python, java, javascript, typescript, html, css</li>
 <br/>
 
