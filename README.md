@@ -1,10 +1,7 @@
 # Hi, I’m [Jimmymonster](https://github.com/Jimmymonster). Just call me Jim.
-My full name is Thanapob Parinyarat.
+👋 Hi there! I'm Jim, a college student with a passion for coding and a knack for picking up new programming languages and frameworks quickly. As a shy introvert, I find comfort in the logical world of code, where I can express my creativity and problem-solving skills.
 
-<h1 align="center">:email: Contract</h1> 
-<li>  <a href="https://www.instagram.com/jimmymonster_/"><b>Instagram</b> </a> </li>
-<li>  <a href="https://www.discordapp.com/users/256747450868432896/"><b>Discord</b> </a> </li>
-<li>  <a href="https://www.linkedin.com/in/thanapob-parinyarat-730281249/"><b>LinkedIn</b> </a> </li>
+🌱 Currently Learning: Always exploring new technologies, right now I'm diving into an AI technologies.
 
 <!---
 <a href="https://www.instagram.com/jimmymonster_/">
@@ -25,11 +22,17 @@ My full name is Thanapob Parinyarat.
 <!-- <li> <b>Likes:</b> Rhythm Games, JRPG Horror Games, Anime </li> -->
 <li> <b>Hobbies:</b> Reading, Gaming, Coding </li>
 <li> <b>Coding Language that I ever used:</b>  C, C++, C#, python, java, javascript, typescript, html, css</li>
-<li> <b>Familar Framework:</b> Nextjs, Nestjs, TailwindCSS, Boostrap, MUI, Flutter, pyTorch & tensor (Maybe?), </li>
+<li> <b>Familar Framework:</b> Nextjs, Nestjs, TailwindCSS, Boostrap, MUI, Flutter, pyTorch & tensorflow (Maybe?) </li>
 <li> <b>Works:</b> Cureently being an Intern NLP engineer at dataxet:infoquest. My work is finetuning AI text to speech model or use any other method to get most netural thai voices.</li>
 <br/>
 
+✨ Fun Fact: My favorite companion? Definitely the debugger and ChatGPT.
 
+
+<h1 align="center">:email: Contract</h1> 
+<li>  <a href="https://www.instagram.com/jimmymonster_/"><b>Instagram</b> </a> </li>
+<li>  <a href="https://www.discordapp.com/users/256747450868432896/"><b>Discord</b> </a> </li>
+<li>  <a href="https://www.linkedin.com/in/thanapob-parinyarat-730281249/"><b>LinkedIn</b> </a> </li>
 <!---
 ## Learning
 <a href="#">
@@ -45,11 +48,11 @@ My full name is Thanapob Parinyarat.
    <img src="languages/java.svg" alt="gamedev" style="vertical-align:top; margin:6px 4px">
 </a>
 --->
-<!---
+
 <h1 align="center">:bar_chart:Stats</h1>
 <p><img src="https://github-readme-stats.vercel.app/api?username=Jimmymonster&amp;show_icons=true" alt="GitHub Stats"></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jimmymonster&layout=compact&theme=buefy&hide_border=true" /></p>
---->
+
 <!---
 Jimmymonster/Jimmymonster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
