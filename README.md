@@ -25,7 +25,7 @@ My full name is Thanapob Parinyarat.
 <!-- <li> <b>Likes:</b> Rhythm Games, JRPG Horror Games, Anime </li> -->
 <li> <b>Hobbies:</b> Reading, Gaming, Coding </li>
 <li> <b>Coding Language that I ever used:</b>  C, C++, C#, python, java, javascript, typescript, html, css</li>
-<li> <b>Works:</b> Inten NLP engineer at dataxet:infoquest. Doing TTS AI model etc...</li>
+<li> <b>Works:</b> Intern NLP engineer at dataxet:infoquest. Doing TTS AI model etc...</li>
 <br/>
 
 
