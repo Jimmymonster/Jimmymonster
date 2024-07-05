@@ -22,8 +22,8 @@
 <!-- <li> <b>Likes:</b> Rhythm Games, JRPG Horror Games, Anime </li> -->
 <li> <b>Hobbies:</b> Reading, Gaming, Coding </li>
 <li> <b>Coding Language that I ever used:</b>  C, C++, C#, python, java, javascript, typescript, html, css</li>
-<li> <b>Familar Framework:</b> Nextjs, Nestjs, TailwindCSS, Boostrap, MUI, Flutter, pyTorch & tensorflow(These two I only use for debuging AI model.) </li>
-<li> <b>Works:</b> Currently being an Intern NLP engineer at dataxet:infoquest. My work is finetuning AI text to speech model or use any other method to get most netural thai voices.</li>
+<li> <b>Familar Framework:</b> Nextjs, Nestjs, TailwindCSS, Boostrap, MUI, Flutter, pyTorch, tensorflow </li>
+<li> <b>Works:</b> Currently being an Intern NLP engineer at dataxet:infoquest.</li>
 <br/>
 
 ✨ Fun Fact: My favorite companion? Definitely the debugger and ChatGPT.
