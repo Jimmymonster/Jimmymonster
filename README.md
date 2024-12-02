@@ -17,13 +17,12 @@
 
 <h1 align="center">:blush:About me</h1>
 <li> <b>Name:</b> Jim </li>
-<li> <b>Gender:</b> He/Male </li>
 <li> <b>Languages:</b> Thai English Japanese and learning Chinese right now</li>
 <!-- <li> <b>Likes:</b> Rhythm Games, JRPG Horror Games, Anime </li> -->
 <li> <b>Hobbies:</b> Reading, Gaming, Coding </li>
 <li> <b>Coding Language that I ever used:</b>  C, C++, C#, python, java, javascript, typescript, html, css</li>
 <li> <b>Familar Framework:</b> Nextjs, Nestjs, TailwindCSS, Boostrap, MUI, Flutter, pyTorch, tensorflow </li>
-<li> <b>Works:</b> Currently being an Intern NLP engineer at dataxet:infoquest.</li>
+<li> <b>Works:</b> Currently being an part timer AI engineer, Data Generator at dataxet:infoquest.</li>
 <br/>
 
 ✨ Fun Fact: My favorite companion? Definitely the debugger and ChatGPT.
