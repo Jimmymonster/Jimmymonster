@@ -25,6 +25,7 @@
 <li> <b>Works:</b> Currently being an part timer AI engineer, Data Generator at dataxet:infoquest.</li>
 <br/>
 
+🔥 Personal Quote: "LET ME COOK!!!" <br>
 ✨ Fun Fact: My favorite companion? Definitely the debugger and ChatGPT.
 
 
