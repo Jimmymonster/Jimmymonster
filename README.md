@@ -27,7 +27,7 @@
 
 🔥 Personal Quote: "LET ME COOK!!!" <br>
 ✨ Fun Fact: My favorite companion? Definitely the debugger and ChatGPT.
-
+🔥 The most confident skill: Fast Learner and Algorithm monster.
 
 <h1 align="center">:email: Contract</h1> 
 <li>  <a href="https://www.instagram.com/jimmymonster_/"><b>Instagram</b> </a> </li>
