@@ -22,7 +22,7 @@
 <li> <b>Hobbies:</b> Reading, Gaming, Coding </li>
 <li> <b>Coding Language that I ever used:</b>  C, C++, C#, python, java, javascript, typescript, html, css</li>
 <li> <b>Familar Framework:</b> Nextjs, Nestjs, TailwindCSS, Boostrap, MUI, Flutter, pyTorch, tensorflow </li>
-<li> <b>Works:</b> Currently being an part timer AI engineer, Data Generator at dataxet:infoquest.</li>
+<li> <b>Works:</b> Currently being an part timer NLP engineer at dataxet:infoquest.</li>
 <br/>
 
 🔥 Personal Quote: "LET ME COOK!!!" <br>
