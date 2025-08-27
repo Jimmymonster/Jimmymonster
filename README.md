@@ -38,7 +38,7 @@
 <li> My main language is Thai, but I can also read and listen to Japanese — and I’m proud that I can enjoy raw Japanese manga or anime without any translation tools. </li>
 <li> As everyone knows, contributions show up on GitHub. After graduating, I’ve been contributing mainly to my company’s private GitLab instead. </li>
 <li> I don’t really use social platforms — I only keep accounts for chatting with friends (no posting, sharing, or endless scrolling). Most of my news informations comes from family and friends. </li>
-<li> As mentioned in my hobbies: I enjoy novels, light novels, manga, manhwa, and manhua. I mainly play story-rich, rogue-like, and hardcore games. Well I'm really not into competitive games. </li>
+<li> As mentioned in my hobbies: I enjoy novels, light novels, manga, manhwa, and manhua. I mainly play story-rich, rogue-like, and hardcore games. Well I'm not really into competitive games. </li>
 <li> My typing speed is around 80 WPM in both Thai and English — I know it’s not really necessary for coding, but I’m proud of it. </li>
 
 <!---
