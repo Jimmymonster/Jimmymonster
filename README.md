@@ -30,6 +30,7 @@
 💪 The most confident skills: Fast Learner and Algorithm monster.
 
 <h1 align="center">:email: Contract</h1> 
+<li> <a href="https://gitroll.io/profile/uHMEtkjnFfUe9ywpFNkhqm0qwd9o2"> <b>Gitroll</b> </a></li>
 <li>  <a href="https://www.instagram.com/jimmymonster_/"><b>Instagram</b> </a> </li>
 <li>  <a href="https://www.discordapp.com/users/256747450868432896/"><b>Discord</b> </a> </li>
 <li>  <a href="https://www.linkedin.com/in/thanapob-parinyarat-730281249/"><b>LinkedIn</b> </a> </li>
