@@ -20,8 +20,8 @@
 <li> <b>Languages:</b> Thai English Japanese(Only Reading and Listening) </li>
 <!-- <li> <b>Likes:</b> Rhythm Games, JRPG Horror Games, Anime </li> -->
 <li> <b>Hobbies:</b> Reading, Gaming </li>
-<li> <b>Coding Language that I ever used:</b>  C, C++, C#, python, java, javascript, typescript, html, css</li>
-<li> <b>Familar Framework:</b> Nextjs, Nestjs, TailwindCSS, Boostrap, MUI, Flutter, pyTorch, tensorflow, huggingface, fastapi</li>
+<li> <b>Coding Language that I ever used:</b>  C, C++, C#, python, java, javascript, typescript, html, css, golang</li>
+<li> <b>Framework that I ever used:</b> Nextjs, Nestjs, TailwindCSS, Boostrap, MUI, Flutter, pyTorch, tensorflow, huggingface, fastapi</li>
 <li> <b>Works:</b> Currently being NLP engineer at dataxet:infoquest. (But right now my work focus on optimize advanced algorithm more than just NLP knowledge.)</li>
 <br/>
 
@@ -31,8 +31,8 @@
 
 <h1 align="center">:email: Contract</h1> 
 <li> <a href="https://gitroll.io/profile/uHMEtkjnFfUe9ywpFNkhqm0qwd9o2"> <b>Gitroll</b> </a></li>
-<li>  <a href="https://www.instagram.com/jimmymonster_/"><b>Instagram</b> </a> </li>
-<li>  <a href="https://www.discordapp.com/users/256747450868432896/"><b>Discord</b> </a> </li>
+<!-- <li>  <a href="https://www.instagram.com/jimmymonster_/"><b>Instagram</b> </a> </li>
+<li>  <a href="https://www.discordapp.com/users/256747450868432896/"><b>Discord</b> </a> </li> -->
 <li>  <a href="https://www.linkedin.com/in/thanapob-parinyarat-730281249/"><b>LinkedIn</b> </a> </li>
 
 <h1 align="center"> 💡 Trivia </h1> 
