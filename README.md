@@ -22,7 +22,7 @@
 <li> <b>Hobbies:</b> Reading, Gaming </li>
 <li> <b>Coding Language that I ever used:</b>  C, C++, C#, python, java, javascript, typescript, html, css, golang</li>
 <li> <b>Framework that I ever used:</b> Nextjs, Nestjs, TailwindCSS, Boostrap, MUI, Flutter, pyTorch, tensorflow, huggingface, fastapi</li>
-<li> <b>Works:</b> Currently being NLP engineer at dataxet:infoquest. (But right now my work focus on optimize advanced algorithm more than just NLP knowledge.)</li>
+<li> <b>Works:</b> Golang backend dev at dataxet:infoquest. Focus on convert python or c# .net code into golang with optimize performance and good project structure also write detailed documentation to make sure that anyone can understand my code.</li>
 <br/>
 
 🔥 Personal Quote: "LET ME COOK!!!" <br>
