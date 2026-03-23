@@ -36,11 +36,19 @@
 <li>  <a href="https://www.linkedin.com/in/thanapob-parinyarat-730281249/"><b>LinkedIn</b> </a> </li>
 
 <h1 align="center"> 💡 Trivia </h1> 
-<li> My main language is Thai, but I can also read and listen to Japanese — and I’m proud that I can enjoy raw Japanese manga or anime without any translation tools. </li>
-<li> As everyone knows, contributions show up on GitHub. After graduating, I’ve been contributing mainly to my company’s private GitLab instead. </li>
-<li> I don’t really use social platforms — I only keep accounts for chatting with friends (no posting, sharing, or endless scrolling). Most of my news informations comes from family and friends. </li>
-<li> As mentioned in my hobbies: I enjoy novels, light novels, manga, manhwa, and manhua. I mainly play story-rich, rogue-like, and hardcore games. Well I'm not really into competitive games. </li>
-<li> My typing speed is around 80 WPM in both Thai and English — I know it’s not really necessary for coding, but I’m proud of it. </li>
+<li> 🇹🇭 Thai is my main language, but I can also read and listen to Japanese enough to enjoy manga/anime in raw form (no subtitles, no mercy 😄).</li>
+
+<li> 🧠 POSN Computer Olympiad Camp 2. Strong foundation in algorithms and problem solving I like turning hard problems into clean solutions.</li>
+
+<li> 🛠️ My GitHub might look quiet sometimes most of my recent contributions live in private GitLab repositories at work.</li>
+
+<li> 📵 Not a fan of social media. I keep it minimal (chat only, no scrolling marathons). Most updates come from friends and family.</li>
+
+<li> 🧍 Introverted by nature comfortable working independently, but actively improving my communication and collaboration skills.</li>
+
+<li> 📚 Into novels, light novels, manga, manhwa, and manhua. 🎮 I prefer story-rich, roguelike, or hardcore games over competitive ones.</li>
+
+<li> ⌨️ Typing speed ~80 WPM in both Thai and English — not critical for coding, but definitely a nice buff.</li>
 
 <!---
 ## Learning
