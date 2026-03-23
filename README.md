@@ -29,11 +29,11 @@
 ✨ Fun Fact: My favorite companion? Definitely the debugger and LLM. <br>
 💪 The most confident skills: Fast Learner and Algorithm monster.
 
-<h1 align="center">:email: Contract</h1> 
-<li> <a href="https://gitroll.io/profile/uHMEtkjnFfUe9ywpFNkhqm0qwd9o2"> <b>Gitroll</b> </a></li>
+<!-- <h1 align="center">:email: Contract</h1> 
+<li> <a href="https://gitroll.io/profile/uHMEtkjnFfUe9ywpFNkhqm0qwd9o2"> <b>Gitroll</b> </a></li> -->
 <!-- <li>  <a href="https://www.instagram.com/jimmymonster_/"><b>Instagram</b> </a> </li>
 <li>  <a href="https://www.discordapp.com/users/256747450868432896/"><b>Discord</b> </a> </li> -->
-<li>  <a href="https://www.linkedin.com/in/thanapob-parinyarat-730281249/"><b>LinkedIn</b> </a> </li>
+<!-- <li>  <a href="https://www.linkedin.com/in/thanapob-parinyarat-730281249/"><b>LinkedIn</b> </a> </li> -->
 
 <h1 align="center"> 💡 Trivia </h1> 
 <li> 🇹🇭 Thai is my main language, but I can also read and listen to Japanese enough to enjoy manga/anime in raw form (no subtitles, no mercy 😄).</li>
