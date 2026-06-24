@@ -1,7 +1,7 @@
 # Hi, I’m [Jimmymonster](https://github.com/Jimmymonster). Just call me Jim.
-👋 Hi there! I'm Jim, a first jobber salary man with a passion for coding and a knack for picking up new programming languages and frameworks quickly. As a shy introvert, I find comfort in the logical world of code, where I can express my creativity and problem-solving skills.
+👋 Hi there! I'm Jim, a backend engineer with a passion for coding and a knack for picking up new programming languages and frameworks quickly. I'm most at home in the logical world of code, where I can put my problem-solving skills to work.
 
-🌱 Currently Learning: Everything that my to-do project need to have.
+🌱 Currently Learning: Whatever my to-do projects demand.
 
 <!---
 <a href="https://www.instagram.com/jimmymonster_/">
@@ -21,19 +21,21 @@
 <!-- <li> <b>Likes:</b> Rhythm Games, JRPG Horror Games, Anime </li> -->
 <li> <b>Hobbies:</b> Reading, Gaming </li>
 <li> <b>Coding Language that I ever used:</b>  C, C++, C#, python, java, javascript, typescript, html, css, golang</li>
-<li> <b>Framework that I ever used:</b> Nextjs, Nestjs, TailwindCSS, Boostrap, MUI, Flutter, pyTorch, tensorflow, huggingface, fastapi</li>
-<li> <b>Works:</b> Golang backend dev at dataxet:infoquest. Focus on convert python or c# .net code into golang with optimize performance and good project structure also write detailed documentation to make sure that anyone can understand my code.</li>
+<li> <b>Backend frameworks:</b> Go (chi), Nestjs, fastapi</li>
+<li> <b>Go stack I work with:</b> chi, JWT auth, Prometheus, zap, Swagger (swaggo), MySQL</li>
+<li> <b>Also worked with (frontend/other):</b> Nextjs, Flutter, TailwindCSS, Bootstrap, MUI</li>
+<li> <b>Works:</b> Golang backend dev at dataxet:infoquest. I migrate Python and C# .NET services to Go — focused on performance and clean project structure. On one core service this brought typical latency from ~200–300ms down to ~10ms (per-request benchmarks, not production p99). I also write detailed documentation so anyone can understand my code.</li>
 <br/>
 
 🔥 Personal Quote: "LET ME COOK!!!" <br>
 ✨ Fun Fact: My favorite companion? Definitely the debugger and LLM. <br>
 💪 The most confident skills: Fast Learner and Algorithm monster.
 
-<!-- <h1 align="center">:email: Contract</h1> 
-<li> <a href="https://gitroll.io/profile/uHMEtkjnFfUe9ywpFNkhqm0qwd9o2"> <b>Gitroll</b> </a></li> -->
+<h1 align="center">:email: Contact</h1>
+<li>  <a href="https://www.linkedin.com/in/thanaphop-parinyarat-730281249/"><b>LinkedIn</b> </a> </li>
+<!-- <li> <a href="https://gitroll.io/profile/uHMEtkjnFfUe9ywpFNkhqm0qwd9o2"> <b>Gitroll</b> </a></li> -->
 <!-- <li>  <a href="https://www.instagram.com/jimmymonster_/"><b>Instagram</b> </a> </li>
 <li>  <a href="https://www.discordapp.com/users/256747450868432896/"><b>Discord</b> </a> </li> -->
-<!-- <li>  <a href="https://www.linkedin.com/in/thanapob-parinyarat-730281249/"><b>LinkedIn</b> </a> </li> -->
 
 <h1 align="center"> 💡 Trivia </h1> 
 <li> 🇹🇭 Thai is my main language, but I can also read and listen to Japanese enough to enjoy manga/anime in raw form (no subtitles, no mercy 😄).</li>
